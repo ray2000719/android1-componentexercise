@@ -15,6 +15,16 @@
         btn.setText("logout");
     }
 
+其中指令:
+
+找出你要改變的物件
+
+        Button btn = findViewById(R.id.login); 
+
+更改文字
+
+        btn.setText("logout");
+
 成果展示
 
 ![image](https://user-images.githubusercontent.com/72558210/136035340-6feb13ba-6c92-4012-b300-826e6aeb89ca.png)
